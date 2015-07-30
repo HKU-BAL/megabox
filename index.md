@@ -16,4 +16,4 @@ MEGABOX is a web platform for hosting up-to-date [MEGAHIT][MEGAHIT] assemblies o
 </ul>
 
 [MEGAHIT]: https://github.com/voutcn/megahit
-[GrePraGChallenge]: {% post_url 2015-07-30-GrePraGChallenge %}
+[GrePraGChallenge]: {{ site.baseurl }}{% post_url 2015-07-30-GrePraGChallenge %}
