@@ -3,8 +3,8 @@ title: MEGABOX
 email: dhli@cs.hku.hk
 description: > # this means to ignore newlines until "baseurl:"
   Open-access MEGAHIT assemblies of big, public metagenome sequencing datasets.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://hku-bal.github.io/megabox" # the base hostname & protocol for your site
+baseurl: "/megabox/" # the subpath of your site, e.g. /blog/
+url: "https://hku-bal.github.io" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 github_username:  hku-bal
 
