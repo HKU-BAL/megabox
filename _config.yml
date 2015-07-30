@@ -12,3 +12,5 @@ github_username:  hku-bal
 markdown: kramdown
 kramdown:
   input: GFM # Enable GitHub Flavored Markdown (fenced code blocks)
+
+permalink: none

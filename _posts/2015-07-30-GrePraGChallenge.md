@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Assemblies of Great Prairie Soil Metagenome Grand Challenge Datasets
-category: GrePraChallenge
-permalink: /:categories/:title
 ---
 
 [DOE/JGI Great Prairie Soil Metagenome Grand Challenge](http://genome.jgi.doe.gov/GrePraGChallenge_2/GrePraGChallenge_2.info.html) is one of the greatest chanllenges in metagenomics. MEGABOX targets to provide assemblies of the eight NGS datasets from this challenge.
