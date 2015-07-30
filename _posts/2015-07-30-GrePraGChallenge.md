@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Assemblies of Great Prairie Soil Metagenome Grand Challenge Datasets
-permalink: /:title
+permalink: /megabox/:title
 ---
 
 [DOE/JGI Great Prairie Soil Metagenome Grand Challenge](http://genome.jgi.doe.gov/GrePraGChallenge_2/GrePraGChallenge_2.info.html) is one of the greatest chanllenges in metagenomics. MEGABOX targets to provide assemblies of the eight NGS datasets from this challenge.
@@ -15,5 +15,5 @@ permalink: /:title
 | Kansas, Native Prairie metagenome reference core | [url](http://genome.jgi.doe.gov/pages/projectStatus.jsf?db=KanNatreferecore) | [MEGAHIT v1.0.1 finished][v1.0.1-KanNatreferecore] |
 |  | | |
 
-[v1.0.1-IowNatreferecore]: /v1.0.1-IowNatreferecore
-[v1.0.1-KanNatreferecore]: /v1.0.1-KanNatreferecore
+[v1.0.1-IowNatreferecore]: /megabox/v1.0.1-IowNatreferecore
+[v1.0.1-KanNatreferecore]: /megabox/v1.0.1-KanNatreferecore
