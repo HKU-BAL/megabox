@@ -19,4 +19,4 @@ title: Assemblies of Great Prairie Soil Metagenome Grand Challenge Datasets
 | Wisconsin, Switchgrass soil metagenome reference core | [url](http://genome.jgi.doe.gov/pages/projectStatus.jsf?db=WisSwireferecore) | Pending |
 
 [IowNatreferecore-v1.0.1]: {{ site.baseurl }}{% post_url 2015-07-30-IowNatreferecore-v1.0.1 %}
-[KanNatreferecore-v1.0.1]: {{ site.baseurl }}{% post_url 2015-07-30-KanNatreferecore-v1.0.1 %}
+[KanNatreferecore-v1.0.1]: {{ site.baseurl }}{% post_url 2015-08-02-KanNatreferecore-v1.0.1 %}
