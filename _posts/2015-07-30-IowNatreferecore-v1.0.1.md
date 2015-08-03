@@ -4,18 +4,21 @@ title: Iowa Native Prairie soil metagenome reference core - MEGAHIT v1.0.1
 category: GrePraChallenge
 ---
 
-### Unassembled Reads
+### Raw Reads
 
-|---:|---:|
-| Source | http://metagenomics.anl.gov/linkin.cgi?project=6377 |
-| Number of PE reads | 1804555764 |
-| bp in PE reads | 227572405878 |
-| Number of SE reads | 356742333 |
-| bp in SE reads | 24678213371 |
+http://metagenomics.anl.gov/linkin.cgi?project=6377
 
 ### Preprocessing
 
 Nil
+
+### Unassembled Reads Informations
+
+|---:|---:|
+| Number of PE reads | 1804555764 |
+| bp in PE reads | 227572405878 |
+| Number of SE reads | 356742333 |
+| bp in SE reads | 24678213371 |
 
 ### MEGAHIT version
 
