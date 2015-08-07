@@ -15,10 +15,10 @@ Nil
 ### Unassembled Reads Informations
 
 |---:|---:|
-| Number of PE reads | 1804555764 |
-| bp in PE reads | 227572405878 |
-| Number of SE reads | 356742333 |
-| bp in SE reads | 24678213371 |
+| Number of PE reads | 1,804,555,764 |
+| bp in PE reads | 227,572,405,878 |
+| Number of SE reads | 356,742,333 |
+| bp in SE reads | 24,678,213,371 |
 
 ### MEGAHIT version
 
@@ -32,9 +32,9 @@ v1.0.1
 
 |---:|---:|
 | Contig length cutoff (bp) | 200 |
-| Number of contigs | 10986357 |
-| Total size (bp) | 7175891749 |
-| Largest contig (bp) | 313620 |
+| Number of contigs | 10,986,357 |
+| Total size (bp) | 7,175,891,749 |
+| Largest contig (bp) | 313,620 |
 | N50 (bp) | 738 |
 
 ### Download Link

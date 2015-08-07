@@ -19,10 +19,10 @@ where `ADAPTOR` is `TruSeq2-PE` for Hiseq2000 reads, and `TruSeq3-PE` for GAII r
 ### Unassembled Reads Informations
 
 |---:|---:|
-| Number of PE reads | 4844058544 |
-| bp in PE reads | 471662120427 |
-| Number of SE reads | 130278957 |
-| bp in SE reads | 10699172210 |
+| Number of PE reads | 2,422,029,272 |
+| bp in PE reads | 471,662,120,427 |
+| Number of SE reads | 130,278,957 |
+| bp in SE reads | 10,699,172,210 |
 
 ### MEGAHIT version
 
@@ -36,9 +36,9 @@ v1.0.1
 
 |---:|---:|
 | Contig length cutoff (bp) | 200 |
-| Number of contigs | 47985585 |
-| Total size (bp) | 27878228835 |
-| Largest contig (bp) | 246919 |
+| Number of contigs | 47,985,585 |
+| Total size (bp) | 27,878,228,835 |
+| Largest contig (bp) | 246,919 |
 | N50 (bp) | 629 |
 
 ### Download Link
