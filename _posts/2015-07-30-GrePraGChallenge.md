@@ -21,4 +21,4 @@ title: Assemblies of Great Prairie Soil Metagenome Grand Challenge Datasets
 [IowNatreferecore-v1.0.1]: {{ site.baseurl }}{% post_url 2015-07-30-IowNatreferecore-v1.0.1 %}
 [IowConreferecore-v1.0.1]: {{ site.baseurl }}{% post_url 2015-08-07-IowConreferecore-v1.0.1 %}
 [KanNatreferecore-v1.0.1]: {{ site.baseurl }}{% post_url 2015-08-02-KanNatreferecore-v1.0.1 %}
-[KanNatreferecore-v1.0.2]: {{ site.baseurl }}{% post_url 2015-08-02-KanCulreferecore-v1.0.2 %}
+[KanNatreferecore-v1.0.2]: {{ site.baseurl }}{% post_url 2015-09-08-KanCulreferecore-v1.0.2 %}
