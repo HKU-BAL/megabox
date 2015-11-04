@@ -17,8 +17,8 @@ Trimmomatic v0.33 with configuration:
 ### Unassembled Reads Informations
 
 |---:|---:|
-| Number of PE reads |  |
-| bp in PE reads |  |
+| Number of PE reads | 1,815,779,190 |
+| bp in PE reads | 155,648,568,325 |
 | Number of SE reads | 46,409,601 |
 | bp in SE reads | 3,352,320,384 |
 
