@@ -14,9 +14,9 @@ title: Assemblies of Great Prairie Soil Metagenome Grand Challenge Datasets
 | Kansas, Native Prairie metagenome reference core | [url](http://genome.jgi.doe.gov/pages/projectStatus.jsf?db=KanNatreferecore) | [MEGAHIT v1.0.1 finished][KanNatreferecore-v1.0.1] |
 | Kansas, Cultivated corn soil metagenome reference core | [url](http://genome.jgi.doe.gov/pages/projectStatus.jsf?db=KanCulreferecore) | [MEGAHIT v1.0.2 finished][KanCulreferecore-v1.0.2] |
 | Wisconsin, Continuous corn soil metagenome reference core | [url](http://genome.jgi.doe.gov/pages/projectStatus.jsf?db=WisConreferecore) | [MEGAHIT v1.0.3 finished][WisConreferecore-v1.0.3] |
-| Wisconsin, Native Prairie soil metagenome reference core | [url](http://genome.jgi.doe.gov/pages/projectStatus.jsf?db=WisNatreferecore) | MEGAHIT v1.0.3 finished][WisNatreferecore-v1.0.3] |
-| Wisconsin, Restored Prairie soil metagenome reference core | [url](http://genome.jgi.doe.gov/pages/projectStatus.jsf?db=WisResreferecore) | MEGAHIT v1.0.3 finished][WisResreferecore-v1.0.3] |
-| Wisconsin, Switchgrass soil metagenome reference core | [url](http://genome.jgi.doe.gov/pages/projectStatus.jsf?db=WisSwireferecore) | MEGAHIT v1.0.3 finished][WisSwireferecore-v1.0.3] |
+| Wisconsin, Native Prairie soil metagenome reference core | [url](http://genome.jgi.doe.gov/pages/projectStatus.jsf?db=WisNatreferecore) | [MEGAHIT v1.0.3 finished][WisNatreferecore-v1.0.3] |
+| Wisconsin, Restored Prairie soil metagenome reference core | [url](http://genome.jgi.doe.gov/pages/projectStatus.jsf?db=WisResreferecore) | [MEGAHIT v1.0.3 finished][WisResreferecore-v1.0.3] |
+| Wisconsin, Switchgrass soil metagenome reference core | [url](http://genome.jgi.doe.gov/pages/projectStatus.jsf?db=WisSwireferecore) | [MEGAHIT v1.0.3 finished][WisSwireferecore-v1.0.3] |
 
 [IowNatreferecore-v1.0.1]: {{ site.baseurl }}{% post_url 2015-07-30-IowNatreferecore-v1.0.1 %}
 [IowConreferecore-v1.0.1]: {{ site.baseurl }}{% post_url 2015-08-07-IowConreferecore-v1.0.1 %}
